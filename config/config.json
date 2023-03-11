@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Whiteless24",
+    "database": "Whiteless24Store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Whiteless24",
+    "database": "Whiteless24Store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Whiteless24",
+    "database": "Whiteless24Store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
